@@ -1,7 +1,7 @@
-import React from "react";
+import { Countries } from "./Countries";
 
 function App() {
-  return <>starting point</>;
+  return <Countries />;
 }
 
 export default App;
